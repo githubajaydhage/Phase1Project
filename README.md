@@ -36,11 +36,34 @@ The details of the user interface are shown to the user. The user has to select 
 ## Technologies
 Project is created with:
 * Java 8
-* IntelliJ IDE
+* Eclipse/IntelliJ IDE
 
 ## Sprint Planning
-https://trello.com/b/aaO33cot/lockedmecom
+Specification document - Product’s capabilities, appearance, and user interactions
 
+Number and duration of sprints required 
+
+Setting up Git and GitHub account to store and track your enhancements of the prototype 
+
+Java concepts being used in the project 
+
+Data Structures where sorting and searching techniques are used. 
+
+Generic features and three operations: 
+
+Retrieving the file names in an ascending order
+
+Business-level operations:
+
+Option to add a user specified file to the application
+
+Option to delete a user specified file from the application
+
+Option to search a user specified file from the application
+
+Navigation option to close the current execution context and return to the main context
+
+Option to close the application
 	
 ## Setup
 Run this as a Java project
@@ -48,3 +71,18 @@ Run this as a Java project
 ```
 Launcher or main() method can be found in LockedMe class under src folder
 ```
+
+
+Eclipse/IntelliJ: An IDE to code for the application 
+
+Java: A programming language to develop the prototype 
+
+Git: To connect and push files from the local system to GitHub 
+
+GitHub: To store the application code and track its versions 
+
+Scrum: An efficient agile framework to deliver the product incrementally 
+
+Search and Sort techniques: Data structures used for the project 
+
+Specification document: Any open-source document or Google Docs 
